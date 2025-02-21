@@ -1,0 +1,3 @@
+[submodule "3rd_party/tinyply"]
+	path = 3rd_party/tinyply
+	url = https://github.com/ddiakopoulos/tinyply.git
